@@ -7,7 +7,7 @@ Challenge the computer with a clean UI, responsive layout, and cool hover animat
 
 ## 🔗 Live Demo
 
-👉 [Click here to play the game]([https://your-deployment-link.com](https://rockpaperandscissorbyradl.netlify.app/))  
+👉 [Click here to play the game] ([https://your-deployment-link.com](https://rockpaperandscissorbyradl.netlify.app/))  
 
 ---
 
